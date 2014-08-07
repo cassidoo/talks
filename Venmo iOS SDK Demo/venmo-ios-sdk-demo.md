@@ -61,7 +61,9 @@ Initialize the SDK
 
 Include your app ID and secret in the app delegate
 
-`[Venmo startWithAppId:@"VENMO_APP_ID" secret:@"VENMO_APP_SECRET" name:@"VENMO_APP_NAME"];`
+```objc
+[Venmo startWithAppId:@"VENMO_APP_ID" secret:@"VENMO_APP_SECRET" name:@"VENMO_APP_NAME"];
+```
 
 ---
 
@@ -71,18 +73,21 @@ Include your app ID and secret in the app delegate
 
 Check if a user has Venmo
 
-```if (![Venmo isVenmoAppInstalled]) {
+```objc
+if (![Venmo isVenmoAppInstalled]) {
     [[Venmo sharedInstance] setDefaultTransactionMethod:VENTransactionMethodAPI];
 }
 else {
     [[Venmo sharedInstance] setDefaultTransactionMethod:VENTransactionMethodAppSwitch];
-}```
+}
+```
 
 ---
 
 Request permissions
 
-```[[Venmo sharedInstance] requestPermissions:@[VENPermissionMakePayments,
+```objc
+[[Venmo sharedInstance] requestPermissions:@[VENPermissionMakePayments,
                                              VENPermissionAccessProfile]
                      withCompletionHandler:^(BOOL success, NSError *error) {
     if (success) {
@@ -91,13 +96,15 @@ Request permissions
     else {
         // :(
     }
-}];```
+}];
+```
 
 ---
 
 And of course, send a payment
 
-```[[Venmo sharedInstance] sendPaymentTo:@"Venmo user"
+```objc
+[[Venmo sharedInstance] sendPaymentTo:@"Venmo user"
                            amount:1 // this is in cents
                            note:@"Transaction note!"
                     completionHandler:^(VENTransaction *transaction, BOOL success, NSError *error) {
@@ -107,7 +114,8 @@ And of course, send a payment
     else {
         NSLog(@"Transaction failed: %@", [error localizedDescription]);
     }
-}];```
+}];
+```
 
 ---
 
