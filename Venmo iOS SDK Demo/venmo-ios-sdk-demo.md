@@ -1,4 +1,4 @@
-![inline](assets/venmologoblue.png)
+![inline](../assets/venmologoblue.png)
 
 # Venmo Developer API
 
@@ -9,17 +9,17 @@
 ---
 
 # REST API
-![inline](assets/restapi.png)
+![inline](../assets/restapi.png)
 
 ---
 
 #OAuth
-![inline](assets/oauth.png)
+![inline](../assets/oauth.png)
 
 ---
 
 #Drop In
-![inline](assets/dropin.png)
+![inline](../assets/dropin.png)
 
 ---
 
@@ -43,13 +43,13 @@ Go to venmo.com
 Edit your Profile
 Developers Tab
 
-![inline](assets/developertab.png)
+![inline](../assets/developertab.png)
 
 ---
 
 Get your app ID and stick it in your XCode project URL types with the word "venmo"
 
-![inline](assets/xcodeurltypes.png)
+![inline](../assets/xcodeurltypes.png)
 
 ---
 
