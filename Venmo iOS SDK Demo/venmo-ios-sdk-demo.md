@@ -59,7 +59,7 @@ Initialize the SDK
 
 ---
 
-Include your app ID and secret in the app delegate
+Include your app ID and secret in the app delegate 
 
 ```objc
 [Venmo startWithAppId:@"VENMO_APP_ID" secret:@"VENMO_APP_SECRET" name:@"VENMO_APP_NAME"];
