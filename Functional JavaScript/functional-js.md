@@ -137,7 +137,7 @@ function () {
     return arg;
   }
 
-> identityf(5)(5)
+> identityf(5)()
 5
 
 ```
