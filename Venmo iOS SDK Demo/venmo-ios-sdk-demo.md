@@ -38,7 +38,7 @@ Use CocoaPods and add this to your Podfile
 
 ---
 
-Register your application
+#Register your application
 Go to venmo.com
 Edit your Profile
 Developers Tab
@@ -121,12 +121,12 @@ And of course, send a payment
 
 #Go to
 
-https://github.com/venmo/venmo-ios-sdk
+*github.com/venmo*
 
-for code samples, a tutorial, and a working example
+for code samples, tutorials, and working examples
 
 ---
 
 developer.venmo.com
 developer@venmo.com
-@VenmoApi 
+@venmodev
