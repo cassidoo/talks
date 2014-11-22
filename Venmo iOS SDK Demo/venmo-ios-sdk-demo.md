@@ -23,8 +23,12 @@
 
 ---
 
+![](http://schmoesknow.com/wp-content/uploads/2013/07/Nicolas-Cage-nicolas-cage-26969943-1982-1300.jpg)
+
+---
+
 #We're going to talk about Drop Ins.
-In particular, we're going to talk about the Venmo iOS SDK.
+In particular, we're going to talk about the *Venmo iOS SDK.*
 
 Anybody can do this.
 
@@ -38,6 +42,10 @@ Use CocoaPods and add this to your Podfile
 
 ---
 
+![](http://static.tumblr.com/06778fbf3e5b4bab2335a2a6ff304674/fyo2bwt/YbVn8dt84/tumblr_static_9yeec85rj1cg8co80skc4c8kc.jpg)
+
+---
+
 #Register your application
 Go to venmo.com
 Edit your Profile
@@ -47,7 +55,9 @@ Developers Tab
 
 ---
 
-Get your app ID and stick it in your XCode project URL types with the word "venmo"
+Get your app ID and stick it in your XCode project URL types like so:
+
+`venmo<<YOUR_APP_ID>>`
 
 ![inline](../assets/xcodeurltypes.png)
 
@@ -68,6 +78,10 @@ Include your app ID and secret in the app delegate
 ---
 
 #Work with it!
+
+---
+
+![](http://thenypost.files.wordpress.com/2014/04/cage.jpg)
 
 ---
 
@@ -128,5 +142,6 @@ for code samples, tutorials, and working examples
 ---
 
 developer.venmo.com
-developer@venmo.com
+cassidy@venmo.com
+juwoo@paypal.com
 @venmodev

@@ -74,7 +74,7 @@ But we're going to use JavaScript.
 ---
 
 ##Let's go through some examples.
-###(we're about to code, get your laptops ready)
+###*(we're about to code, get your laptops ready)*
 
 ---
 
@@ -376,4 +376,4 @@ Helpful Libraries
 #[fit]Cassidy Williams
 ##cassidy@venmo.com
 
-###Have fun at _**PennApps!**_
+###Have fun at _**WildHacks!**_
