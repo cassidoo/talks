@@ -4,6 +4,12 @@
 
 --- 
 
+#[fit]_Cassidy Williams_
+#[fit]Software Engineer _**&**_ Developer Evangelist
+##Venmo
+
+---
+
 ##What is a _personal brand_, anyway?
 
 ---
@@ -49,11 +55,7 @@
 
 ##What _strengths_ do people see in me?
 
-###Turn to someone near you.
-
-###Look _deep_ into their eyes.
-
-^ If you don't have someone to look at, here's a picture of Nicholas Cage to back you up.
+^ To save time, look into Nick Cage's eyes
 
 ---
 
@@ -189,4 +191,4 @@
 
 ![](cage3.jpg)
 
-#_Let's hack_
+#_Good luck today!_
