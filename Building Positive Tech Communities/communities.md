@@ -53,8 +53,8 @@
 ---
 
 #The 3 Pillars
-- Advocacy
 - Advising
+- Advocacy
 - Accelerating
 
 ^I admit I didn't come up with these myself, I worked on
@@ -63,3 +63,68 @@
 
 ---
 
+![](woodbg.jpg)
+#Advise
+^ what's the first thing you think of when you think of advising others?
+
+---
+
+>Mentorship!
+
+^Fostering a mentorship culture is huge
+^You learn by teaching
+^Lift as you climb
+
+---
+
+![](woodbg.jpg)
+#Advocate
+
+---
+
+>Publicly recommend and support each other!
+
+^Everyone should know what you and your community stand for.
+^My fave way to do this is a code of conduct.
+
+---
+
+#Code of Conduct
+
+- hackcodeofconduct.org
+- Hacker School's social rules
+
+^Feigning surprise, well-actually's, backseat driving, subtle-isms.
+^Don't be a jerk.
+
+---
+
+![](woodbg.jpg)
+#Accelerate
+
+^Accelerating ties the last two pillars together.
+
+---
+
+>Better each other!
+
+^Through friendship, scholarship, sponsorship, mentorship
+^Help people get opportunities, and they'll help each other
+
+---
+
+![](woodbg.jpg)
+#Advise
+#Advocate
+#Accelerate
+
+^It takes dedication to pull these off.
+^It probably won't just work out in a day.
+
+---
+
+>Life is a marathon, not a sprint.
+
+---
+
+#[inspirational thing]
