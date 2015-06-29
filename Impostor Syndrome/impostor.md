@@ -77,9 +77,14 @@ What the heck is Impostor Syndrome?
 ---
 
 ## Avoiding display of confidence
+
+---
+
+![fit](http://www.quickmeme.com/img/f6/f65256cfc7544c7b2916d982eb535b3545181c22a76f8d793ab2a6c028bde719.jpg)
+
 ^ She believes if she actually believes in her intelligence and abilities she may be rejected by others
 
-^ She may convince herself that she is not intelligent or does not deserve success to avoid this.
+^ She may convince herself that she is not intelligent or does not deserve success to avoid this
 
 ---
 

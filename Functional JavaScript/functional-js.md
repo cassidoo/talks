@@ -25,7 +25,7 @@ There are two things you need to know to understand functional programming.
 
 ---
 
-##Functions are 
+##Functions are
 #_**Immutable**_
 
 ---
@@ -82,7 +82,7 @@ Everything we write will be in the same JS file.
 
 ---
 
-Type out these helpers. 
+Type out these helpers.
 
 ```js
 function log(arg) {
@@ -185,7 +185,7 @@ function curry(fun, a) {
 ---
 
 #You just learned currying!
-Currying is when you break down a function that takes multiple arguments into a series of functions that take part of the arguments. 
+Currying is when you break down a function that takes multiple arguments into a series of functions that take part of the arguments.
 
 ---
 
@@ -216,7 +216,7 @@ function liftf(fun) {
 So, using the functions we've written so far, write a function `increment` in 2 different ways.
 
 ```js
-var increment = curry(add, 1); 
+var increment = curry(add, 1);
 
 > increment(5)
 6
@@ -375,5 +375,3 @@ Helpful Libraries
 
 #[fit]Cassidy Williams
 ##cassidy@venmo.com
-
-###Have fun at _**WildHacks!**_

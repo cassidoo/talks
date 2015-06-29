@@ -1,8 +1,8 @@
-#[fit]Your 
+#[fit]Your
 #[fit]_**Personal**_
 #[fit]Brand
 
---- 
+---
 
 #[fit]_Cassidy Williams_
 #[fit]Software Engineer _**&**_ Developer Evangelist
@@ -30,12 +30,6 @@
 ---
 
 ##How the heck do I get one of those?
-
----
-
-##I'll tell you.
-
-^ Because you're great.
 
 ---
 
@@ -172,14 +166,6 @@
 ##Now, _share_ it!!
 
 ^ Let your voice be the one that stands out from the crowd.
-
----
-
-##Your brand is _powerful_.
-
-^ Your brand is your most powerful tool for making an impact,
-^ and for getting the opportunities that are best for you.
-^ Add that to your technical skills, and you can't lose.
 
 ---
 
