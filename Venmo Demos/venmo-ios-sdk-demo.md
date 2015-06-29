@@ -4,7 +4,11 @@
 
 ---
 
-#There's 3 ways to integrate Venmo
+#There's 4 ways to integrate Venmo
+
+---
+
+#Payment Links
 
 ---
 
@@ -23,12 +27,8 @@
 
 ---
 
-![](http://schmoesknow.com/wp-content/uploads/2013/07/Nicolas-Cage-nicolas-cage-26969943-1982-1300.jpg)
-
----
-
-#We're going to talk about Drop Ins.
-In particular, we're going to talk about the *Venmo iOS SDK.*
+#We're going to talk about Drop Ins & Payment Links
+First, we're going to talk about the *Venmo iOS SDK.*
 
 Anybody can do this.
 
@@ -38,16 +38,12 @@ I don't know anything about iOS and I did this.
 
 Use CocoaPods and add this to your Podfile
 
-`pod 'Venmo-iOS-SDK', '~>1.0.0'`
-
----
-
-![](http://static.tumblr.com/06778fbf3e5b4bab2335a2a6ff304674/fyo2bwt/YbVn8dt84/tumblr_static_9yeec85rj1cg8co80skc4c8kc.jpg)
+`pod 'Venmo-iOS-SDK', '~>1.3'`
 
 ---
 
 #Register your application
-Go to venmo.com
+Go to *venmo.com*
 Edit your Profile
 Developers Tab
 
@@ -69,7 +65,7 @@ Initialize the SDK
 
 ---
 
-Include your app ID and secret in the app delegate 
+Include your app ID and secret in the app delegate
 
 ```objc
 [Venmo startWithAppId:@"VENMO_APP_ID" secret:@"VENMO_APP_SECRET" name:@"VENMO_APP_NAME"];
@@ -78,10 +74,6 @@ Include your app ID and secret in the app delegate
 ---
 
 #Work with it!
-
----
-
-![](http://thenypost.files.wordpress.com/2014/04/cage.jpg)
 
 ---
 
@@ -133,6 +125,20 @@ And of course, send a payment
 
 ---
 
+#Payment Links
+
+---
+
+#Payment Links are cray easy.
+
+Go to *developer.venmo.com*
+
+Click Payment Links
+
+Party
+
+---
+
 #Go to
 
 *github.com/venmo*
@@ -143,5 +149,4 @@ for code samples, tutorials, and working examples
 
 developer.venmo.com
 cassidy@venmo.com
-juwoo@paypal.com
 @venmodev
