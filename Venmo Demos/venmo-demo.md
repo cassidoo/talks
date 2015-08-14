@@ -99,5 +99,4 @@ for code samples, tutorials, and working examples
 ---
 
 developer.venmo.com
-cassidy@venmo.com
 @venmodev
