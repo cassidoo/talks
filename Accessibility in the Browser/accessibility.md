@@ -3,28 +3,28 @@
 ---
 
 # Cassidy Williams
-## Software Engineer & Developer Evangelist at Venmo <br> *cassidoo.co*
+##[fit] Software Engineer & Developer Evangelist at Clarifai <br> *cassidoo.co*
 
 ---
 
 # The internet is great.
-###http://www.nooooooooooooooo.com/
+###[fit] http://www.nooooooooooooooo.com/
 
 ---
 
-# If you can see the screen.
+## If you can see the screen.
 
 ---
 
-# If you can use the mouse to click a button.
+## If you can use the mouse to click a button.
 
 ---
 
-# If you can hear the audio that plays when you click it.
+## If you can hear the audio that plays when you click it.
 
 ---
 
-# That is, if you have *no disabilities* of any kind.
+## That is, if you have *no disabilities* of any kind.
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-#The Semantic Web
+# The Semantic Web
 - HTML5 Tags
 - The `role` attribute
 
@@ -81,11 +81,11 @@
 
 ---
 
-# But let's look at *a.singlediv.com* with a screen reader.
+## But let's look at *a.singlediv.com* with a screen reader.
 
 ---
 
-#The `role` attribute
+# The `role` attribute
 Provides a programmatically determinable *relationship* between specific content.
 
 ---
@@ -112,7 +112,7 @@ Provides a programmatically determinable *relationship* between specific content
 
 ---
 
-##Adding a role will not make an element act or look differently for people not using assistive technology.
+## Adding a role will not make an element act or look differently for people not using assistive technology.
 
 ^ It does not change the behaviours, states, nor properties of the host element.
 ^ It changes the accessibility tree.
@@ -122,13 +122,13 @@ Provides a programmatically determinable *relationship* between specific content
 
 ---
 
-#The WAI-ARIA Specification
-## W3C's Accessible Rich Internet Applications Spec
+## The WAI-ARIA Specification
+### W3C's Accessible Rich Internet Applications Spec
 
 ---
 
-# The WAI-ARIA Specification
-## Defines ways to make Web content and Web applications more accessible to people with disabilities.
+## The WAI-ARIA Specification
+### Defines ways to make Web content and Web applications more accessible to people with disabilities.
 
 ---
 
@@ -210,8 +210,8 @@ All interactive elements must have an accessible name.
 
 ---
 
-# `aria-describedby`
-##Specifies a hyperlink to content that describes the object.
+## `aria-describedby`
+### Specifies a hyperlink to content that describes the object.
 
 ---
 
@@ -272,7 +272,7 @@ http://test.cita.illinois.edu/aria/toolbar/toolbar1.php
 ---
 
 # Color
-## There should be a certain amount of *contrast* in your color choices.
+There should be a certain amount of *contrast* in your color choices.
 
 ---
 
@@ -283,7 +283,7 @@ http://test.cita.illinois.edu/aria/toolbar/toolbar1.php
 ---
 
 # State Changes
-## Standard controls have this taken care of, but for custom controls, ARIA states provide solutions (aria-checked, aria-pressed, etc)
+Standard controls have this taken care of, but for custom controls, ARIA states provide solutions (aria-checked, aria-pressed, etc)
 
 ^ Be device independent! Don’t use device-dependent events like onKeyDown, onMouseDown, onMouseOver.
 ^ Instead, use independent events like onFocus, onBlur, onSubmit.
