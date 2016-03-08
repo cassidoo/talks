@@ -91,7 +91,7 @@ Provides a programmatically determinable *relationship* between specific content
 ---
 
 ```
-	<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit."> 
+	<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit.">
 	<p>Lola has been up to no good.</p>
 ```
 
@@ -101,7 +101,7 @@ Provides a programmatically determinable *relationship* between specific content
 
 ```
 	<figure role="group">  
-		<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit."> 
+		<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit.">
  		<figcaption>Lola has been up to no good.</figcaption>  
 	</figure>
 ```
@@ -116,8 +116,8 @@ Provides a programmatically determinable *relationship* between specific content
 
 ^ It does not change the behaviours, states, nor properties of the host element.
 ^ It changes the accessibility tree.
-^ which is a tree of accessible objects that represents the structure of the user interface (UI). 
-^ Each node represents an element in the UI as exposed through the accessibility API; 
+^ which is a tree of accessible objects that represents the structure of the user interface (UI).
+^ Each node represents an element in the UI as exposed through the accessibility API;
 ^ for example, a push button, a check box, or container.
 
 ---
@@ -218,7 +218,7 @@ All interactive elements must have an accessible name.
 # `aria-describedby`
 
 ```
-<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit."> 
+<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit.">
 
 <div id="lola-desc">Lola has been up to no good.</div>
 ```
@@ -230,8 +230,8 @@ All interactive elements must have an accessible name.
 # `aria-describedby`
 
 ```
-<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit." 
-								aria-describedby="#lola-desc"> 
+<img src="lolacat.png" alt="Lola the cat posing in a prisoner's outfit."
+								aria-describedby="#lola-desc">
 
 <div id="lola-desc">Lola has been up to no good.</div>
 ```
@@ -241,7 +241,7 @@ All interactive elements must have an accessible name.
 ---
 
 # University of Illinois' Example
-http://test.cita.illinois.edu/aria/toolbar/toolbar1.php
+http://test.cita.uiuc.edu/html/labels1.php
 
 ---
 
@@ -293,12 +293,12 @@ Standard controls have this taken care of, but for custom controls, ARIA states 
 # Developer Tools
 
 [Fang’s Screen Reader Emulator](https://addons.mozilla.org/en-US/firefox/addon/fangs-screen-reader-emulator/)
-[WAI-ARIA Best Practices](http://www.w3.org/WAI/PF/aria-practices/) 
-[Color Contrast Checker](http://snook.ca/technical/colour_contrast/colour.html) 
-[Tanaguru’s Automated Accessibility Testing Service](http://www.tanaguru.com/en/) 
+[WAI-ARIA Best Practices](http://www.w3.org/WAI/PF/aria-practices/)
+[Color Contrast Checker](http://snook.ca/technical/colour_contrast/colour.html)
+[Tanaguru’s Automated Accessibility Testing Service](http://www.tanaguru.com/en/)
 http://www.html5accessibility.com/
 
---- 
+---
 
 # Let's make the web accessible by everyone.
 
