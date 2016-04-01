@@ -5,6 +5,7 @@
 
 #Clarifai is rad.
 ##clarifai.com
+
 ---
 
 ###The Clarifai API has 4 REST endpoints and a bunch of API Clients
@@ -35,6 +36,11 @@
 
 ##/v1/tag
 ###Gives you tags for a given image
+
+---
+
+##/v1/color
+###Gives you colors for a given image
 
 ---
 
@@ -74,17 +80,44 @@ List<RecognitionResult> results =
 
 ```javascript
 var Clarifai = require('./clarifai_node.js');
-Clarifai.initAPI(process.env.CLIENT_ID, process.env.CLIENT_SECRET);
+Clarifai.initAPI(CLIENT_ID, CLIENT_SECRET);
 
-Clarifai.tagURL('image.jpeg', 'identifying string', resultHandler );
+Clarifai.tagURL('image.jpg', 'identifying string', resultHandler);
 ```
 
 ---
 
-##Custom Training
+##Go
+
+```go
+func main() {
+    client := clarifai.NewClient("<client_id>", "<client_secret>")
+    urls := []string{"image.jpg", "image2.jpg"}
+    tag_data := client.Tag(clarifai.TagRequest{URLs: urls})
+    fmt.Printf("%+v\n", tag_data)
+}
+```
+
+---
+
+##New Model!
+
+---
+
+##Food!
+
+###developer.clarifai.com/alpha/images
+
+---
+
+#__Bounties!__
+###*blog.clarifai.com/bounties*
+
+![left](bounties.png)
 
 ---
 
 #_developer.clarifai.com_
+###github.com/clarifai
 ###@clarifaidev
 ###hackers@clarifai.com
