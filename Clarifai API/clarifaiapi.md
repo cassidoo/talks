@@ -106,7 +106,7 @@ func main() {
 
 ##Food!
 
-###developer.clarifai.com/alpha/images
+###developer.clarifai.com/alpha/food-model/
 
 ---
 
