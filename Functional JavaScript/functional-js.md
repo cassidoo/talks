@@ -1,19 +1,18 @@
-#Functional Programming in _**JavaScript**_
+# Functional Thinking in _**JavaScript**_
 
 ---
 
-##Cassidy Williams
-###Software engineer at Venmo
-###cassidy@venmo.com
+# Cassidy Williams
+##[fit] **Senior Software Engineer at _L4 Digital_**
 
 ---
 
-#What is functional programming?
+## What is functional programming?
 
 ---
 
 > "The mustachioed hipster of programming paradigms"
-#Smashing Magazine
+# Smashing Magazine
 
 ---
 
@@ -25,8 +24,8 @@ There are two things you need to know to understand functional programming.
 
 ---
 
-##Functions are
-#_**Immutable**_
+## Functions are
+# _**Immutable**_
 
 ---
 
@@ -34,8 +33,8 @@ If you want to change data in an array, just return a new array with the changes
 
 ---
 
-##Functions are
-#_**Stateless**_
+## Functions are
+# _**Stateless**_
 
 ---
 
@@ -59,7 +58,72 @@ In addition, there are 3 best practices you should follow.
 
 ---
 
-There are languages made for this
+## Quick Example
+
+---
+
+## The OOP Way
+
+```js
+class Student {
+  constructor(name, gpa) {
+    this.name = name;
+    this.gpa = gpa;
+  }
+
+  getGPA() {
+    return this.gpa;
+  }
+
+  changeGPA(amount) {
+    return this.gpa + amount;
+  }
+}
+```
+
+---
+
+```js
+var dan = new Student('Dylan Grant', 3.5);
+```
+
+---
+
+```js
+var students = [ new Student('Dylan Grant', 3.5),
+                 new Student('Cassidy Williams', 3.9),
+                 new Student('Harry Love', 2.2) ];
+
+for(var i = 0; i < students.length; i++) {
+  students[i].changeGPA(.1);
+}
+```
+
+---
+
+## The Functional Way
+
+```js
+var students = [
+  ['Dylan Grant', 3.5],
+  ['Cassidy Williams', 3.9],
+  ['Harry Love', 2.2],
+];
+```
+
+---
+
+```js
+var newStudents = students.map(function(s) {
+  return [s[0], s[1] + .1];
+});
+```
+
+You pass in not only the amount you want to change, but the data itself.
+
+---
+
+There are languages made specifically for this
 
  - Lisp
  - Scheme
@@ -69,16 +133,13 @@ There are languages made for this
 
 ---
 
-But we're going to use JavaScript.
-
----
-
-##Let's go through some examples.
-###*(we're about to code, get your laptops ready)*
+## Let's go through some examples.
+### *(we're about to code, get your laptops ready)*
 
 ---
 
 Everything we write will be in the same JS file.
+We will *not* be using arrow functions for these exercises, unless you want to.
 
 ---
 
@@ -102,6 +163,8 @@ function sub(a, b) {
 }
 ```
 
+^ let add = (a, b) => a + b;
+
 ---
 
 Recursion is a big deal in functional programming.
@@ -121,10 +184,6 @@ function identityf(arg) {
   };
 }
 ```
-
----
-
-What the heck does this mean?
 
 ---
 
@@ -184,7 +243,7 @@ function curry(fun, a) {
 
 ---
 
-#You just learned currying!
+# You just learned currying!
 Currying is when you break down a function that takes multiple arguments into a series of functions that take part of the arguments.
 
 ---
@@ -320,7 +379,7 @@ function fibonaccif(a, b) {
 
 ---
 
-#[fit]LAST ONE.
+#[fit] LAST ONE.
 
 ---
 
@@ -354,11 +413,11 @@ function addgroup(a) {
 
 ---
 
-#Wasn't this _**FUN?**_
+# Wasn't this _**FUN?**_
 
 ---
 
-#Why did we just learn functional programming?
+# Why did we just learn functional programming?
  - Functions can be broken down into simpler and smaller chunks that are easier to read
  - Software is more reliable due to its modularity
  - It's becoming more popular EVERY SINGLE DAY.
@@ -371,7 +430,8 @@ Helpful Libraries
  - underscore.js
  - bacon.js
 
- ---
+---
 
-#[fit]Cassidy Williams
-##cassidy@venmo.com
+# The end
+### Get back to work
+##### Also tweet me **@cassidoo**
