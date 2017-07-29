@@ -110,6 +110,10 @@
 
 ---
 
+![inline](cupcakes.png)
+
+---
+
 # Things that were a challenge
 
 - Grading assignments for everyone
@@ -134,6 +138,8 @@
 - Connections to people in the industry
   - Including job recommendations
 - Swag (of course)
+
+![right](love.png)
 
 ---
 
