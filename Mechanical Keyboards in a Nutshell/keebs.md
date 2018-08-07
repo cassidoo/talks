@@ -114,7 +114,7 @@ There's dozens of switch types available for mechanical keyboards.
 
 # Keycap Profiles
 
-- I've gone through the most popular keycap profiles (there are more)
+- I've gone through some of the more popular keycap profiles (there are many more)
 - Some profiles and colors are more rare than others
 
 ---
@@ -188,7 +188,7 @@ There's dozens of switch types available for mechanical keyboards.
 
 ---
 
-![inline](hhkb.png)
+![inline](z48.jpg)
 
 ---
 
@@ -245,19 +245,14 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 ---
 
-![](https://youtu.be/pG83krAsXO8?t=34s)
-
----
-
 # Getting a Mechanical Keyboard
 
 ---
 
 # Getting a Mechanical Keyboard
 
-- Because it's a niche community, buying keyboards (and parts) is *very* community-based!
-- Massdrop, GeekHack, and /r/mechmarket are all community-driven buy sites
-- For all else: Amazon, PimpMyKeyboard.com, wasdkeyboards.com, MechanicalKeyboards.com, Sentraq.com, GeekKeys.com, KeyClack.com, Originative.co
+- Massdrop, GeekHack, KeyClack, and /r/mechmarket are all community-driven buy sites
+- For all else: Amazon, PimpMyKeyboard.com, wasdkeyboards.com, MechanicalKeyboards.com, novelkeys.xyz, Sentraq.com, GeekKeys.com, KeyClack.com, Originative.co
 - ...Or you could just ask Cassidy to help
 
 ---
