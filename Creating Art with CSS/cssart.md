@@ -6,7 +6,7 @@
 ### Engineer at _**Codepen**_
 ### @cassidoo
 
-^ I've worked at CodePen for 3 weeks now
+^ I've worked at CodePen for a few months now
 ^ I've been making CSS art for almost 3 years
 
 ---
