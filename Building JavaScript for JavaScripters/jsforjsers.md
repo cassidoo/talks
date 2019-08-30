@@ -19,7 +19,7 @@ footer: @cassidoo
 # For those who don't know
 
 - CodePen is an online code playground
-- It was founded about 6 years ago
+- It was founded in 2012
 - People use it to demo and prototype projects, as well as to make art
 - There's millions and millions of Pens on the site
 - You can get a Pro account to have private Pens, team accounts, different modes, and moooore
@@ -48,7 +48,7 @@ function doubleSay(x) {
 }
 
 function exclaim(x) {
-  return `${x}, Skills Matter!`;
+  return `${x}, 🦕!`;
 }
 
 let result = 'Hello' |> doubleSay |> exclaim;
@@ -74,10 +74,6 @@ document.getElementById('hello').innerText = result;
 ^ Pages would hang on infinite loops and broke the site, basically
 ^ You had to weirdly stick in your own plugins that didn't always work
 ^ Some syntaxes like JSX would sometimes just error out
-
----
-
-![inline](icanfixthat.gif)
 
 ---
 
@@ -123,10 +119,6 @@ import presetTypescript from '@babel/preset-typescript';
 
 ---
 
-![inline](icanfixthat2.gif)
-
----
-
 # Plugins and Presets
 
 ---
@@ -151,6 +143,10 @@ import presetTypescript from '@babel/preset-typescript';
 
 ^ Not swearing
 ^ But including every plugin we wanted instead of presets
+
+---
+
+### `[swear words lol]`
 
 ---
 
@@ -440,12 +436,6 @@ test('compiles optional chaining', () => {
 ---
 
 ![inline](babelpen.png)
-
----
-
-## **Thank you :heart:**
-
-# Questions?
 
 ---
 
