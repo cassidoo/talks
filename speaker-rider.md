@@ -4,7 +4,7 @@ Before I'll agree to speaking at a conference, meetup, or event, I research to m
 
 I love speaking at events, and am so grateful to organizers who ask me to participate! I feel so privileged to be considered, and want to use that privilege to help the tech community be as inclusive as possible, where everyone can feel represented.
 
-If I say no to your event (even if you do all of the below), please don't take it personally! Because I speak often, it's likely because I have a conflict, or I need to back off because I speak too often and I am bad at saying no to people. The first step is acknowledging you have a problem, right?
+If I say no to your event (even if you do all of the below), please don't take it personally! Because I speak often, it's likely because I have a conflict, or I need to back off because I speak too much.
 
 Anyway, onwards and yee haw:
 
