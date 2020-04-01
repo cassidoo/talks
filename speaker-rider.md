@@ -54,7 +54,7 @@ Anyway, onwards and yee haw:
 
 - Live captioning is incredibly beneficial to those who are hard of hearing, struggle with focus, or prefer to process written information.
 - Gender pronoun identification provided by some method for attendees to self-identify if they so choose is awesome.
-- A scholarship program for those who can't otherwise afford to attend us huge! Also, to note, be careful about your wording of the scholarship program. I've seen some rough ones where the conferences strongly imply that "diverse candidates need charity," which is not a good stereotype to push out there.
+- A scholarship program for those who can't otherwise afford to attend is huge! Also, to note, be careful about your wording of the scholarship program. I've seen some rough ones where the conferences strongly imply that "diverse candidates need charity," which is not a good stereotype to push out there.
 - The ability to use my own computer/setup is preferred. I've been to some events where they require me to use their machines, which works if I'm just using slides, but I often live-code in my talks and unfamiliar keyboard layouts can lead to a less fluid presentation. This is also important for those who need to use assistive technologies on a given machine!
 
 ## Final thoughts
