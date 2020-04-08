@@ -1,6 +1,6 @@
-# [fit] Building Reusable
-
-# UI Libraries
+# Building
+# [fit] Compound Components
+# In React 
 
 ### **@cassidoo**
 
@@ -25,6 +25,7 @@ const data = [
 ---
 
 ## **Demo**
+github.com/cassidoo/accordion
 
 ---
 
