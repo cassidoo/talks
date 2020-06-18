@@ -3,7 +3,6 @@
 ---
 
 ## Cassidy Williams
-### Software Engineer & Developer Evangelist at Clarifai
 ###@cassidoo
 
 ---
@@ -30,7 +29,7 @@
 
 ## Remove the objective.
 
-^ Nobody looks at the objective. It's a waste of space.
+^ Nobody looks at the objective, unless it's an unusual role or background. It's a waste of space otherwise!
 
 ---
 
@@ -111,8 +110,6 @@
 - Meetup.com
 - Eventbrite
 - Major League Hacking
-- Lanyrd
-- nyhackathons.com
 
 ---
 
