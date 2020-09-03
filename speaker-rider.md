@@ -6,7 +6,7 @@ I love speaking at events, and am so grateful to organizers who ask me to partic
 
 If I say no to your event (even if you do all of the below), please don't take it personally! Because I speak often, it's likely because I have a conflict, or I need to back off because I speak too much.
 
-Anyway, onwards and yee haw:
+Anyway, onwards:
 
 ## Hosting accommodations
 
@@ -26,7 +26,7 @@ Anyway, onwards and yee haw:
 
 - I ask for a speaker fee because I value my time (and hope you do too), I often have to take time off of work or projects to travel and attend, and because I want to normalize people getting paid for their work (especially underrepresented groups).
 - For non-profit events, I may choose to waive this based on ticket pricing, scholarship programs, etc.
-- I'm not putting a number here because it varies depending on the event. Please don't make it awkward and be like "uh, we don't normally pay speakers, but you get exposure," because I can't pay my mortgage with exposure. <3 I understand that some events don't have budget to pay speakers, and I'll address this on a case-by-case basis (but also, you should have budget to pay your speakers).
+- I'm not putting a number here because it varies depending on the event. Please don't make it awkward and be like "uh, we don't normally pay speakers, but you get exposure," because I can't pay my bills with exposure. <3 I understand that some events don't have budget to pay speakers, and I'll address this on a case-by-case basis (but also, you should have budget to pay your speakers).
 
 ### Ticket
 
@@ -37,7 +37,7 @@ Anyway, onwards and yee haw:
 ### Code of Conduct
 
 - Long story short, you gotta have one of these. And please don't make it be something like "don't be a jerk," and that's it! Unfortunately I've been a person who has had to use a Code of Conduct with a very underprepared organizing team, and I would hate for any others to have that sort of experience.
-- Here's a great CoC example: [JSConfEu](https://2019.jsconf.eu/code-of-conduct/)
+- Here's a couple great CoC examples: [JSConfEu](https://2019.jsconf.eu/code-of-conduct/) and [Rust Community](https://www.rust-lang.org/policies/code-of-conduct)
 
 ### No white-majority, all-men lineups
 
