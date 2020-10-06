@@ -12,7 +12,7 @@ Anyway, onwards:
 
 ### Travel
 
-- I ask that travel to and from the event is provided (assuming it is not local, I'm currently based in Seattle)
+- I ask that travel to and from the event is provided (assuming it is not local, I'm currently based in Chicago)
 - I am a member of a bunch of airlines and hotel rewards things. If organizers of an event are booking on my behalf, I ask that you use one of those if possible!
 - I do ask too that if I'm booking my own travel/lodging, that I be reimbursed quickly. I've had poor experiences with this in the past, and this also provides a more inclusive model for those who can't front the cost of travel.
 
