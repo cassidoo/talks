@@ -19,7 +19,7 @@ Anyway, onwards:
 ### Lodging
 
 - I ask that lodging is provided for the full length of the event, unless the event is local!
-- For events outside of the US (or just far away from Chicago, looking at you NYC), I ask for at least one full day of lodging before the event since I'll likely be flying in a day or two before.
+- For events outside of the US (or just far away from Chicago, looking at you, Seattle), I ask for at least one full day of lodging before the event since I'll likely be flying in a day or two before.
 - Same blurb as above, if I'm booking my own lodging!
 
 ### Speaker honorarium
