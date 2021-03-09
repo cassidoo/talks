@@ -10,9 +10,15 @@ Anyway, onwards:
 
 ## Hosting accommodations
 
+### Speaker honorarium
+
+- I ask for a speaker fee because I value my time (and hope you do too), I often have to take time off of work or projects to travel and attend, and because I want to normalize people getting paid for their work (especially underrepresented groups).
+- For non-profit events, I may choose to waive this based on ticket pricing, scholarship programs, etc.
+- I'm not putting a number here because it varies depending on the event. Please don't make it awkward and be like "uh, we don't normally pay speakers, but you get exposure," because I can't pay my bills with exposure. <3 I understand that some events don't have budget to pay speakers, and I'll address this on a case-by-case basis (but also, you should have budget to pay your speakers).
+
 ### Travel
 
-- I ask that travel to and from the event is provided (assuming it is not local, I'm currently based in Chicago)
+- I ask that travel to and from the event is provided (assuming it is not local, I'm currently based in Chicago).
 - I am a member of a bunch of airlines and hotel rewards things. If organizers of an event are booking on my behalf, I ask that you use one of those if possible!
 - I do ask too that if I'm booking my own travel/lodging, that I be reimbursed quickly. I've had poor experiences with this in the past, and this also provides a more inclusive model for those who can't front the cost of travel.
 
@@ -21,12 +27,6 @@ Anyway, onwards:
 - I ask that lodging is provided for the full length of the event, unless the event is local!
 - For events outside of the US (or just far away from Chicago, looking at you, Seattle), I ask for at least one full day of lodging before the event since I'll likely be flying in a day or two before.
 - Same blurb as above, if I'm booking my own lodging!
-
-### Speaker honorarium
-
-- I ask for a speaker fee because I value my time (and hope you do too), I often have to take time off of work or projects to travel and attend, and because I want to normalize people getting paid for their work (especially underrepresented groups).
-- For non-profit events, I may choose to waive this based on ticket pricing, scholarship programs, etc.
-- I'm not putting a number here because it varies depending on the event. Please don't make it awkward and be like "uh, we don't normally pay speakers, but you get exposure," because I can't pay my bills with exposure. <3 I understand that some events don't have budget to pay speakers, and I'll address this on a case-by-case basis (but also, you should have budget to pay your speakers).
 
 ### Ticket
 
@@ -49,6 +49,11 @@ Anyway, onwards:
 - I'm cool with being recorded, just let me know ahead of time.
 - I guarantee that everything I do is rated "PG" with no swearing or inappropriate/explicit remarks.
 - I typically use [Deckset](https://www.deckset.com/) if I am using slides. I regularly post my slides here in this repo, if the talk isn't majority live-coding. I can provide a generated PDF of my slides or Markdown.
+
+### Virtual events
+
+- I personally prefer live talks rather than pre-recording videos. Pre-recording involves a lot of editing time because of the nature of the medium. If you highly prefer pre-recording, please consider the time commitment with speaker honorariums, or have an editor on your team who can do those edits.
+- During talks, please include some sort of moderation of comments (preferably before they go live for the audience to see). Internet trolls unfortunately exist, and have ruined talk playbacks in the past.
 
 ### Bonus points I would love to see
 
