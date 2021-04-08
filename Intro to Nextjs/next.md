@@ -69,8 +69,16 @@
 
 ---
 
+## Preview Mode
+
+---
+
+## Incremental Static Regeneration
+
+---
+
 # Let's code!
 
 ---
 
-### github.com/cassidoo/next-netlify-starter
+### cass.run/next-starter
