@@ -65,3 +65,7 @@ Anyway, onwards:
 ## Final thoughts
 
 Thank you so much for reading through all of this! I hope none of it is particularly surprising, and that it's reasonable for you. I want to speak at events that are inclusive, diverse, and accessible to everyone, and hope to contribute to the community surrounding them. If you disagree with parts of this, or want to discuss terms more, I am all ears and would love to speak further.
+
+- This rider was last updated January 26, 2022.
+- If you'd like an easy-access link to it, you can use [cass.run/rider](https://cass.run/rider).
+- If you want to use/modify it as your own, go for it!
