@@ -50,6 +50,11 @@ Anyway, onwards:
 - I guarantee that everything I do is rated "PG" with no swearing or inappropriate/explicit remarks.
 - I typically use [Deckset](https://www.deckset.com/) if I am using slides. I regularly post my slides here in this repo, if the talk isn't majority live-coding. I can provide a generated PDF of my slides or Markdown.
 
+### Childcare
+
+- Some level of childcare is super appreciated (whether it is that it's provided by the event, or an extra ticket/accommodations for a partner or caretaker).
+- If that's not possible, a quiet room of some kind for sleeping kiddos would be great, and/or kid-friendly spaces!
+
 ### Virtual events
 
 - I personally prefer live talks rather than pre-recording videos. Pre-recording involves a lot of editing time because of the nature of the medium. If you highly prefer pre-recording, please consider the time commitment with speaker honorariums, or have an editor on your team who can do those edits.
@@ -66,6 +71,6 @@ Anyway, onwards:
 
 Thank you so much for reading through all of this! I hope none of it is particularly surprising, and that it's reasonable for you. I want to speak at events that are inclusive, diverse, and accessible to everyone, and hope to contribute to the community surrounding them. If you disagree with parts of this, or want to discuss terms more, I am all ears and would love to speak further.
 
-- This rider was last updated January 26, 2022.
+- This rider was last updated August 19, 2023.
 - If you'd like an easy-access link to it, you can use [cass.run/rider](https://cass.run/rider).
 - If you want to use/modify it as your own, go for it!
