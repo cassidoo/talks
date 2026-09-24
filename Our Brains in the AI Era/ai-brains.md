@@ -3,6 +3,7 @@ build-lists: true
 
 # Our Brains in the **AI Era**
 ### Cassidy Williams, aka cassidoo
+### DX at GitHub
 
 ---
 
@@ -18,6 +19,8 @@ build-lists: true
 
 ## I work with AI users a *lot*
 
+^I have some stats
+
 ---
 
 ## 85% of developers use AI regularly[^1]
@@ -26,9 +29,9 @@ build-lists: true
 
 ---
 
-## Spain is the **6th** most "AI-diffused" country in the world with 41.8% of the population having used generative AI[^2]
+![inline](diffusion.png)
 
-[^2]: Microsoft AI Economy Institute, Global AI Adoption in 2025 study
+<sub>Microsoft Global AI Diffusion Report: aka.ms/AIDiffusionGlobal</sub>
 
 ---
 
@@ -54,10 +57,32 @@ build-lists: true
 
 ## At GitHub
 
-- More than 2x PRs committed on average per engineer
-- 2025: 1 billion commit mark
-- Now: 275 million commits per week
-- Copilot Code Review agent is #3 contributor to the codebase
+Scaling Git infrastructure improvements
+
+- More work in parallel
+- Decoupling storage and compute
+- Up to 35x the write throughput
+
+^Multiple servers handle reads and pushes
+^Repo data lives separately from request servers
+^Scalable read capacity
+
+---
+
+## At GitHub
+
+Agent-generated PRs:
+- January 2026: <10 million
+- March 2026: 17.8 million
+- August 2026: 71.1 million
+
+---
+
+## At GitHub
+
+Number of commits:
+- 2025: 1 billion commits
+- August 2026: 1.15 billion commits *per week*
 
 ---
 
@@ -75,17 +100,20 @@ build-lists: true
 
 ## What could possibly go wrong?
 
-In an MIT study, people wrote essays in two groups, with and without LLMs.[^3]
+In an MIT study, people wrote essays in groups, with and without LLMs.[^3]
 
-[^3]: publichealthpolicyjournal.com/mit-study-finds-artificial-intelligence-use-reprograms-the-brain-leading-to-cognitive-decline
+[^3]: gh.io/brain-decline
 
 ---
 
 ## What could possibly go wrong?
 
 - 83.3% of LLM users were unable to quote even one sentence
-- 88.9% of "brain-only" users could quote accurately
-- 0% of LLM users could produce a correct quote, while most "brain" users could
+- 88.9% of "brain-only" + search users could quote accurately
+- 0% of LLM users could produce a **correct** quote, while most "brain" users could
+
+^Weaker memory recall
+^Their brains adapted to efficiency rather than effortful learning
 
 ---
 
@@ -166,6 +194,11 @@ In an MIT study, people wrote essays in two groups, with and without LLMs.[^3]
 
 ---
 
-# Gracias <3
-### Tell me your thoughts!
+# Thank you!
+
+### __@cassidoo__
+### **cassidoo.co**
+
+
+## Tell me your thoughts!
 ### **cass.run/cm**
